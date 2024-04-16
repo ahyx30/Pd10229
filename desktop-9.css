@@ -1,0 +1,275 @@
+.desktop-9-child,
+.desktop-9-child1,
+.desktop-9-child2,
+.desktop-9-child3,
+.desktop-9-inner,
+.desktop-9-item {
+  position: absolute;
+  top: 454px;
+  left: 88px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 543px;
+  height: 80px;
+}
+.desktop-9-child1,
+.desktop-9-child2,
+.desktop-9-child3,
+.desktop-9-inner,
+.desktop-9-item {
+  top: 566px;
+  left: 105px;
+  width: 348px;
+}
+.desktop-9-child1,
+.desktop-9-child2,
+.desktop-9-child3,
+.desktop-9-inner {
+  left: 500px;
+}
+.desktop-9-child1,
+.desktop-9-child2,
+.desktop-9-child3 {
+  left: 895px;
+}
+.desktop-9-child2,
+.desktop-9-child3 {
+  top: 454px;
+  left: 707px;
+  width: 543px;
+}
+.desktop-9-child3 {
+  top: 678px;
+  left: 88px;
+  width: 1167px;
+}
+.h {
+  position: absolute;
+  top: 474px;
+  left: 301px;
+}
+.phngx,
+.qunhuyn,
+.thnh-phtnh,
+.tn {
+  position: absolute;
+  top: 586px;
+  left: 159px;
+}
+.phngx,
+.qunhuyn,
+.tn {
+  left: 570px;
+}
+.phngx,
+.tn {
+  left: 979px;
+}
+.tn {
+  top: 474px;
+  left: 928px;
+}
+.image-31-icon,
+.nga-ch-c {
+  position: absolute;
+  top: 698px;
+  left: 500px;
+}
+.image-31-icon {
+  top: 851px;
+  left: 63px;
+  width: 335px;
+  height: 264px;
+  object-fit: cover;
+}
+.dich-vu-goi {
+  margin: 0;
+}
+.gi-199000-vn {
+  margin-bottom: 0;
+}
+.gi-199000-vn-kch-c-33-c {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.bn-cha-c,
+.dich-vu-goi-container,
+.thot3 {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.dich-vu-goi-container {
+  top: 902px;
+  left: 453px;
+  display: inline-block;
+  width: 816px;
+  height: 224px;
+}
+.bn-cha-c,
+.thot3 {
+  top: 1244px;
+  left: 861px;
+  color: var(--color-red);
+  cursor: pointer;
+}
+.thot3 {
+  top: 1234px;
+  left: 125px;
+  text-align: center;
+}
+.desktop-9-child4 {
+  position: absolute;
+  top: 1112px;
+  left: 711px;
+  background-color: var(--color-black);
+  width: 555px;
+  height: 117px;
+}
+.tip-tc-vi {
+  position: absolute;
+  top: 1151px;
+  left: 814px;
+  color: var(--color-white);
+  text-align: center;
+}
+.footer-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1325px;
+  height: 353px;
+}
+.span35 {
+  text-decoration: underline;
+}
+.a15 {
+  color: inherit;
+}
+.lin-h-hotline-container15 {
+  position: absolute;
+  top: 43px;
+  left: 543.1px;
+  display: inline-block;
+  width: 239.2px;
+}
+.e-nguyn-tri-phng-bn-thn45 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.ca-hng-139e-container15,
+.h-tr-ti-container15 {
+  position: absolute;
+  top: 38px;
+  left: 803.5px;
+  display: inline-block;
+  width: 482.2px;
+}
+.h-tr-ti-container15 {
+  top: 194px;
+  left: 809px;
+  width: 403.1px;
+}
+.image-3-icon15 {
+  position: absolute;
+  top: 62px;
+  left: 44.4px;
+  width: 253px;
+  height: 57px;
+  object-fit: cover;
+}
+.levents-share15 {
+  position: absolute;
+  top: 146px;
+  left: 44.4px;
+  text-align: center;
+  display: inline-block;
+  width: 245.7px;
+}
+.footer15 {
+  position: absolute;
+  top: 1327px;
+  left: -6px;
+  width: 1325px;
+  height: 353px;
+  font-size: var(--font-size-xl);
+}
+.desktop-9-child5,
+.desktop-9-child6 {
+  position: absolute;
+  top: -1px;
+  left: 4px;
+  background-color: var(--color-white);
+  width: 1339px;
+  height: 264px;
+}
+.desktop-9-child6 {
+  left: 0;
+  background-color: var(--color-black);
+  width: 1343px;
+  height: 76px;
+}
+.vector-icon83,
+.vector-icon84 {
+  position: absolute;
+  height: 3.32%;
+  width: 4.57%;
+  top: 8.07%;
+  right: 91.12%;
+  bottom: 88.61%;
+  left: 4.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon84 {
+  height: 5.08%;
+  width: 4.94%;
+  top: 7.14%;
+  right: 4.97%;
+  bottom: 87.78%;
+  left: 90.1%;
+  cursor: pointer;
+}
+.a-ch-giao,
+.dch-v-gi {
+  position: absolute;
+  top: 356px;
+  left: 125px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.dch-v-gi {
+  top: 810px;
+}
+.desktop-9-child7 {
+  position: absolute;
+  top: 110px;
+  left: 477px;
+  background-color: var(--color-black);
+  width: 393px;
+  height: 105px;
+}
+.levents15 {
+  position: absolute;
+  top: 124px;
+  left: 530px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  cursor: pointer;
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1680px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
